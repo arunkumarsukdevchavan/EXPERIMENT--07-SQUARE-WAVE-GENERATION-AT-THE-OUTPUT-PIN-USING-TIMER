@@ -96,8 +96,10 @@ Step14. click on debug and simulate using simulation as shown below
   
 
 ## STM 32 CUBE PROGRAM :
+```
 Developed By: ARUN KUMAR SUKDEV CHAVAN
 Reg.No: 212222230013
+```
 ```
 /* USER CODE BEGIN Header */
 /**
